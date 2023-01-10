@@ -1,0 +1,13 @@
+{
+  "name": "addTodoItemItem",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/nikhilvneoito/addTodoItemItem",
+    "ssh": "git@github.com:nikhilvneoito/addTodoItemItem.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
